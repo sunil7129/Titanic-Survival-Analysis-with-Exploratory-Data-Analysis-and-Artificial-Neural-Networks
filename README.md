@@ -1,1 +1,2 @@
 # Titanic-Survival-Analysis-with-Exploratory-Data-Analysis-and-Artificial-Neural-Networks
+The Titanic Survival Problem is a classic data science challenge where the goal is to predict which passengers aboard the Titanic survived its sinking in 1912. This project emphasizes the importance of EDA in understanding the dataset and identifying patterns and trends before building machine learning models.
